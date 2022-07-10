@@ -1,6 +1,6 @@
 # UnitySuspensionBridge
 
-[Watch the Video](https://youtu.be/s-rYMK7krfQ) on how to create Bridge Step by Step in Unity 
+[Watch the Video](https://www.youtube.com/watch?v=CKTruZAlyX0) on how to create Bridge Step by Step in Unity 
 
 
 ## Recommendation
