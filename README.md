@@ -5,4 +5,4 @@
 
 ## Recommendation
 The best way to learn is doing it. <br />
-Try to implement the Generator on your own. If you have any problems you can watch the code here. 
+Try to implement the Bridge on your own. If you have any problems you can watch again here.
